@@ -27,3 +27,13 @@ Output:
 Negative 😞
 ## Author
 Guna M.S. Dhana Naga Venkata Durga Sruthi
+## 📊 Project Output
+### Example 1
+**Input:** I love this product  
+**Output:** Positive 😊
+![Output 1](sentiment%20analysis%20project%20output%201.jpeg)
+---
+### Example 2
+**Input:** This movie is bad  
+**Output:** Negative 😡
+![Output 2](sentiment%20analysis%20project%20output%202.jpeg)
